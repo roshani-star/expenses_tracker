@@ -1,0 +1,14 @@
+[
+    {
+        "item": "buiyng i phone",
+        "amount": 50000.0,
+        "category": "Other",
+        "date_time": "07-06-2026 10:28 PM"
+    },
+    {
+        "item": "pizza",
+        "amount": 2300.0,
+        "category": "Food",
+        "date_time": "08-06-2026 03:36 PM"
+    }
+]
